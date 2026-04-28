@@ -1,4 +1,5 @@
 # Malicious Insider Detection System (MIDS)
+###project LInk: https://malicious-insider-detection-m4beqzfgfnvazdegzkox9e.streamlit.app/
 ### Enterprise Cybersecurity Behavioural Analytics Framework
 
 The modern enterprise security model is shifting from perimeter defense to internal user behavior monitoring. Traditional firewalls are blind to threats originating from within. MIDS provides a scalable, real-time solution to identify malicious behavioral shifts using a Hybrid Machine Learning approach.
